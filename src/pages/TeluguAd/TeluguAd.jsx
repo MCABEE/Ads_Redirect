@@ -19,7 +19,7 @@ const TeluguAd = () => {
             </p>
             <div className='flex justify-center w-full ml-36 sm:ml-0'>
                 <a
-                    href=""
+                    href="https://play.google.com/store/apps/details?id=com.firstlookmatrimony.first_look&hl=en-IN"
                     className="inline-flex transition duration-200 ease-in hover:box-shadow hover:opacity-80"
                 >
                     <img
